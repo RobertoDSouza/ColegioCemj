@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ColegioCemj/static/css/main.a681a1ed.css",
-    "main.js": "/ColegioCemj/static/js/main.59500956.js",
+    "main.js": "/ColegioCemj/static/js/main.01957917.js",
     "static/js/787.784c3e9a.chunk.js": "/ColegioCemj/static/js/787.784c3e9a.chunk.js",
     "static/media/fundoform.png": "/ColegioCemj/static/media/fundoform.fc46defa19cd13015e1f.png",
     "static/media/2.png": "/ColegioCemj/static/media/2.88a5fa0e3fb619324770.png",
@@ -43,11 +43,11 @@
     "static/media/ass.webp": "/ColegioCemj/static/media/ass.931cd6a5f4d0ef64ca98.webp",
     "index.html": "/ColegioCemj/index.html",
     "main.a681a1ed.css.map": "/ColegioCemj/static/css/main.a681a1ed.css.map",
-    "main.59500956.js.map": "/ColegioCemj/static/js/main.59500956.js.map",
+    "main.01957917.js.map": "/ColegioCemj/static/js/main.01957917.js.map",
     "787.784c3e9a.chunk.js.map": "/ColegioCemj/static/js/787.784c3e9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a681a1ed.css",
-    "static/js/main.59500956.js"
+    "static/js/main.01957917.js"
   ]
 }
