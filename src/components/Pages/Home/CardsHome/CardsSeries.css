@@ -1,0 +1,48 @@
+.cardsItens{
+    margin: 2% auto;
+    display: block;
+    justify-content: center;
+    text-align: center;
+    max-width:1280px ;
+    max-height: auto;
+}
+.cadrsItensTitulo> h2{
+    color: #253D5F;
+}
+.itens{
+    display:flex ;
+    margin-top:20px ;
+}
+.itensCard{
+    display:flex ;
+    flex-wrap: wrap;
+    margin: 2% auto;
+    justify-content: center;
+    text-align: center;
+    max-height: auto;
+}
+
+
+.itensCard>.card{
+    height: 350px;
+    transition: 0.2s ease-in-out;
+}
+.itensCard >.card:hover{
+    transform: scale(1.05);
+    z-index:99;
+}
+
+.card-img-top{
+    height: auto;
+    width: auto;
+}
+.itensCard button{
+    color: white;
+}
+.itens a:link ,.itens a:visited,.itens a:hover,.itens a:active{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+ }
+ 
+ 
+  

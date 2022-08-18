@@ -1,0 +1,42 @@
+.carrosel h3{
+    font-size: 6vw;
+    padding-bottom: 2vw;
+}
+.carrosel p{
+    font-size: 25px;
+    padding-bottom: 4%;
+}
+
+.carrosel p,.carrosel h3{
+    color: #253D5F;
+     text-shadow:
+    0 0 7px rgb(255, 255, 255),
+    0 0 10px rgb(255, 255, 255),
+    0 0 1px rgb(255, 255, 255);
+}
+.carrosel .btn.btn-primary{
+    width:15rem;
+    height:4rem;
+    font-size:20px;
+    background-color:rgba(255, 255, 255, 0.8);
+    border:none;
+    transition: 0.2s ease-in-out;
+    color: rgb(37, 61, 95);
+}
+.carrosel .btn.btn-primary:hover{   
+    background-color: rgba(37, 61, 95, 0.8);
+    color: #ffffff;
+}
+
+.btn.btn-primary a{
+    list-style-type: none;
+    color: rgb(37, 61, 95);
+  }
+  .btn.btn-primary a:hover{
+    color: rgb(255, 255, 255);
+  }
+  a:link, a:visited, a:active {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+  }
+  

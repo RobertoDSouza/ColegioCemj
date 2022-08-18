@@ -1,0 +1,151 @@
+.contato{
+    background-color:#edeeee ;
+    display: block;
+      align-items: center;
+      justify-content: center;
+      width: 100vw;
+      text-align: center;
+      height: auto;
+  }
+  .contato>h2{
+      background: url('../../../img/contato.png') no-repeat ;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-position: center;
+      height: 320px;
+      width: 100vw;
+      padding-top: 50px;
+      padding-bottom: 20px;
+      color: #253d5f;
+      font-size: 80px;
+      text-shadow: 0px 0px 5px white,
+      0px 0px 10px white,
+      0px 0px 15px white;
+      
+  }
+  .contato h2{
+      padding-top: 50px;
+      padding-bottom: 20px;
+      color: rgb(37, 61, 95);
+      font-size: 80px;
+      text-shadow: 0px 0px 5px white,
+      0px 0px 10px white,
+      0px 0px 15px white;
+  }
+
+  .contatolista{
+    height: 250px;
+    width: 100vw;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+  }
+  .iconecontato{
+    padding: 20px;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+  }
+  .iconecontato:hover{
+    transform: scale(1.05);
+    opacity: 1;
+  }
+  .iconecontato img{
+    height: 120px;
+    width: 120px;
+  }
+  
+  
+  
+  
+
+
+  /*Cadstro*/
+.cadastroContato{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 20px;
+}
+ 
+.contatoformulario form {
+    font-size: 14px;
+    background-color: rgba(253, 181, 0,0.5);
+    width: 360px;
+    height: 620px; 
+
+}
+
+.contatoformulario h1 {
+    color: #000066;
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
+
+.contatoformulario input, textarea,select {
+    width: 260px;
+    padding: 10px;
+    color: black;
+    margin-top: 10px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border: 1px solid;
+}
+.contatoformulario select{
+    width: 260px;
+    padding: 10px;
+    color: black;
+    margin-top: 10px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border: 1px solid;
+}
+
+.contatoformulario input:hover,select:hover, textarea:hover, input:focus, textarea:focus {
+    border-color: #000066;
+    background-color: #d6d6d6;
+    color: black;
+    font-weight: bold;
+}
+
+.contatoformulario .enviar {
+    background-color: #ffffff;
+    height: 40px;
+    width: 100px;
+    font-weight: bold;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border: 1px solid;
+    color: black;
+}
+
+.contatoformulario textarea {
+    width: 280px;
+    height: 120px;
+    line-height: 20px;
+    max-width: 400px;
+    margin-top: 10px;
+}
+
+.contatoformulario form label {
+    margin-left: 20px;
+    color: #ffffff;
+    font-weight: bold;
+}/*----------*/
+
+.logocontato{
+    width: 550px;
+    height: 550px;
+}
+.cadastroContato img{
+    width: 490px;
+    height: 490px;
+    transition: 0.2s ease-in-out;
+    padding-left: 20px;
+}
+.cadastroContato img:hover{
+    width: 500px;
+    height: 500px;
+}

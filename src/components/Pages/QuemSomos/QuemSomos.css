@@ -1,0 +1,112 @@
+.quemsomos{
+    background-color:#edeeee ;
+    display: block;
+      align-items: center;
+      justify-content: center;
+      width: 100vw;
+      text-align: center;
+      height: auto;
+  }
+  .quemsomos>h2{
+      background: url('../../../img/quem.png') no-repeat ;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-position: center;
+      height: 320px;
+      width: 100vw;
+      padding-top: 50px;
+      padding-bottom: 20px;
+      color: #253d5f;
+      font-size: 80px;
+      text-shadow: 0px 0px 5px white,
+      0px 0px 10px white,
+      0px 0px 15px white;
+      
+  }
+  .quemsomos h2{
+      padding-top: 50px;
+      padding-bottom: 20px;
+      color: #253d5f;
+      font-size: 40px;
+      text-shadow: 0px 0px 5px white,
+      0px 0px 10px white,
+      0px 0px 15px white;
+  }
+  .time{
+    
+    height: 1400px;
+  }
+  .quemsomos h3{
+    padding-top: 20px;
+    color: #253d5f;
+    font-size: 40px;
+    text-shadow: 0px 0px 5px white,
+    0px 0px 10px white,
+    0px 0px 15px white;
+}
+.nossahistoria{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 50px;
+
+}.text-quem{
+    background-color: rgb(255, 255, 255);
+    width: 420px;
+    height: 800px;
+    border-radius: 10px;
+    border: 4px solid #253d5f;
+}
+.text-quem p{
+    color: #253d5f;
+    font-size: 16px;
+    padding: 40px;
+}
+.minicard{
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: block;
+    width: 800px;
+    height: 1050px;
+    background-color: rgb(255, 255, 255);
+}
+
+.signature{
+    padding: 0 10px;
+    display: block;
+    max-width: 300px;
+    max-height: auto;
+    align-items: center;
+    justify-content: center;
+    border-right: 0.5px solid rgb(201, 201, 201);
+    
+}
+.cartadadiretor{
+    
+    height: auto;
+    width: 600px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.cartadadiretor h4{
+    color:#fa394a;
+    font-size: 28px;
+    text-align: center;
+    font-weight: bold;
+}
+.cartadadiretor h5{
+    font-size: 18px;
+}
+.cartadadiretor img{
+    padding: 0 50px;
+    height: 80px;
+}

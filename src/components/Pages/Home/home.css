@@ -1,0 +1,16 @@
+.main{
+    min-height: 3150px;
+    height: auto;
+    width: 100vw;
+    background-color: aliceblue;
+    z-index: -1;
+}
+
+
+.carrousel{
+    height: 205px;
+    width: 100vw;
+
+}
+
+
