@@ -1,3 +1,3 @@
 
 # ColegioCemj
-See running https://robertodsouza.github.io/ColegioCemj#/Home
+See running https://robertodsouza.github.io/ColegioCemj/Home
