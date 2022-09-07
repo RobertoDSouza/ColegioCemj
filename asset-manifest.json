@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ColegioCemj/static/css/main.c5267551.css",
-    "main.js": "/ColegioCemj/static/js/main.f9a413f9.js",
+    "main.js": "/ColegioCemj/static/js/main.69fcff45.js",
     "static/js/787.8e7a3730.chunk.js": "/ColegioCemj/static/js/787.8e7a3730.chunk.js",
     "static/media/fundoform.png": "/ColegioCemj/static/media/fundoform.fc46defa19cd13015e1f.png",
     "static/media/2.png": "/ColegioCemj/static/media/2.88a5fa0e3fb619324770.png",
@@ -22,13 +22,10 @@
     "static/media/diretora.jpeg": "/ColegioCemj/static/media/diretora.ac33d42271fedb9a472a.jpeg",
     "static/media/galileu.png": "/ColegioCemj/static/media/galileu.7592867bcf10d60d120a.png",
     "static/media/emial.png": "/ColegioCemj/static/media/emial.ddb78679b842926c57f6.png",
-    "static/media/ideias.png": "/ColegioCemj/static/media/ideias.a35630e29d7542b95e63.png",
-    "static/media/brinquedo.png": "/ColegioCemj/static/media/brinquedo.125e43772832e63dc088.png",
     "static/media/zap.png": "/ColegioCemj/static/media/zap.d10d6880cfe28762d037.png",
     "static/media/diretor1.jpg": "/ColegioCemj/static/media/diretor1.eee5374f9fcb529e3533.jpg",
     "static/media/d2.jpg": "/ColegioCemj/static/media/d2.06a00111050eb76b8499.jpg",
     "static/media/prof3.jpg": "/ColegioCemj/static/media/prof3.ed7a46c90d198702a831.jpg",
-    "static/media/livro.png": "/ColegioCemj/static/media/livro.94cf6565befb90283004.png",
     "static/media/d0.jpg": "/ColegioCemj/static/media/d0.d703f5951ebfd7347c80.jpg",
     "static/media/d3.jpg": "/ColegioCemj/static/media/d3.c760253a51c5790fb864.jpg",
     "static/media/d1.jpg": "/ColegioCemj/static/media/d1.2ec363f7dcd833d4c42c.jpg",
@@ -43,11 +40,11 @@
     "static/media/ass.webp": "/ColegioCemj/static/media/ass.931cd6a5f4d0ef64ca98.webp",
     "index.html": "/ColegioCemj/index.html",
     "main.c5267551.css.map": "/ColegioCemj/static/css/main.c5267551.css.map",
-    "main.f9a413f9.js.map": "/ColegioCemj/static/js/main.f9a413f9.js.map",
+    "main.69fcff45.js.map": "/ColegioCemj/static/js/main.69fcff45.js.map",
     "787.8e7a3730.chunk.js.map": "/ColegioCemj/static/js/787.8e7a3730.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5267551.css",
-    "static/js/main.f9a413f9.js"
+    "static/js/main.69fcff45.js"
   ]
 }
